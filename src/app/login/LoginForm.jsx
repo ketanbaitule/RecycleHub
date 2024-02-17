@@ -54,7 +54,7 @@ export default function LoginForm(){
                 <Button isLoading={pending} type="submit" px={6} py={2} >Login</Button>
             </div>
             <div>
-                Don't have an account yet? <ChakraLink as={Link} color="teal.500" href={"register"}>Register now</ChakraLink>
+                Don&apos;t have an account yet? <ChakraLink as={Link} color="teal.500" href={"register"}>Register now</ChakraLink>
             </div>
         </>
     )
