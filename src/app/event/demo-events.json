@@ -1,0 +1,31 @@
+[
+    {
+      "event_id": 1,
+      "event_name": "Recycling Workshop",
+      "location": "Community Center",
+      "date": "2024-03-15",
+      "description": "Join our workshop to learn about the importance of recycling and practical tips for effective waste management."
+    },
+    {
+      "event_id": 2,
+      "event_name": "E-Waste Collection Drive",
+      "location": "City Park",
+      "date": "2024-04-20",
+      "description": "Bring your old electronics for safe and responsible disposal. Help us reduce e-waste and protect the environment."
+    },
+    {
+      "event_id": 3,
+      "event_name": "Paper Recycling Campaign",
+      "location": "Local Schools",
+      "date": "2024-05-10",
+      "description": "Collaborate with schools to collect and recycle paper. Encourage students and their families to participate in the campaign."
+    },
+    {
+      "event_id": 4,
+      "event_name": "Beach Cleanup Day",
+      "location": "Coastal Area",
+      "date": "2024-06-25",
+      "description": "Join us for a beach cleanup day. Let's work together to keep our oceans clean and protect marine life."
+    }
+]
+  

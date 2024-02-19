@@ -1,0 +1,28 @@
+[
+    {
+        "name": "Dr. J. B. Randhawa", 
+        "designation": "Proffesor, GCOEN",
+        "content": "RecycleHub is a game-changer! Its efficient processes and user-friendly interface make recycling hazardous waste seamless. The connection between users, collectors, and re-processors is remarkable. A much-needed solution for a cleaner environment!",
+        "type": "none"
+    }, 
+    {
+        "name": "Dr. Latesh Malik", 
+        "designation": "HOD, CSE Department", 
+        "content": "RecycleHub revolutionizes waste management. The centralized map and reward system motivate users, while the point system for collectors adds a commendable touch. The market for recycled materials is a brilliant addition. A holistic approach towards a sustainable future.",
+        "type": "image",
+        "data": {
+            "alt": "Recycling image",
+            "src": "https://images.unsplash.com/photo-1531403009284-440f080d1e12?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+        }
+    }, 
+    {
+        "name": "Dr. S. R. Wagh", 
+        "designation": "Asst. Proffessor, GCOEN", 
+        "content": "Incredible initiative! RecycleHub tackles global challenges with local solutions. The comprehensive market survey demonstrates a deep understanding of the issues. The proposed solution aligns with environmental goals. A commendable effort for a greener planet.",
+        "type": "pdf",
+        "data": {
+            "alt": "Recycling pdf",
+            "src": "https://www.in.gov/idem/files/factsheet_ops_outreach_recycling.pdf"
+        }
+    }
+]

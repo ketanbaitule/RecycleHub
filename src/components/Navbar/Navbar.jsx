@@ -4,6 +4,7 @@ import { Button} from "@chakra-ui/react";
 import Link from 'next/link'
 import { useEffect, useState } from "react";
 import AvatarMenu from './AvatarMenu';
+import LoggedInUserMenu from './LoggedInUserMenu';
 
 export default function Navbar(){
 
@@ -31,9 +32,10 @@ export default function Navbar(){
                         <Button as={Link} href="/register">Register</Button>
                     </div>
                     ) : (
-                        <>
+                        <div className="flex flex-row items-center gap-3">
+                            <LoggedInUserMenu name={user.user.email} />
                             <AvatarMenu name={user.user.email} />
-                        </>
+                        </div>
                     )
                 }
             </div>

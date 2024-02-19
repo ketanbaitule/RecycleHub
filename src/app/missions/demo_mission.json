@@ -1,0 +1,19 @@
+[
+    {
+      "mission_objective": "Recycle 5 Plastic Bottles",
+      "karma_points": 20
+    },
+    {
+      "mission_objective": "Give Old Electronics to Collection Point",
+      "karma_points": 30
+    },
+    {
+      "mission_objective": "Participate in a Community Cleanup Event",
+      "karma_points": 40
+    },
+    {
+        "mission_objective": "Share Recyclehub in Your Community",
+        "karma_points": 25
+    }
+  ]
+  

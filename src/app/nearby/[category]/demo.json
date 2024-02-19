@@ -1,0 +1,224 @@
+{
+    "electronics": [
+        {
+          "location": "123 Tech Street, Green City, Recycling District",
+          "name": "GreenTech Solutions",
+          "opening_time": "9:00 AM",
+          "closing_time": "5:00 PM",
+          "contact_no": "+1234567890"
+        },
+        {
+          "location": "456 Circuit Avenue, Eco Town, Tech Recycling Zone",
+          "name": "Circuit Recyclers",
+          "opening_time": "10:00 AM",
+          "closing_time": "4:00 PM",
+          "contact_no": "+9876543210"
+        },
+        {
+          "location": "789 E-Waste Lane, Sustainable City, Electronic Recycling Center",
+          "name": "E-Waste Solutions",
+          "opening_time": "8:30 AM",
+          "closing_time": "6:30 PM",
+          "contact_no": "+1122334455"
+        },
+        {
+          "location": "101 Green Drive, Techville, Tech Recycle Depot",
+          "name": "TechCycle Recyclers",
+          "opening_time": "9:00 AM",
+          "closing_time": "5:30 PM",
+          "contact_no": "+5544332211"
+        },
+        {
+          "location": "202 Eco Avenue, GreenTech District, EcoElectronics Collection Point",
+          "name": "EcoElectronics Recycle",
+          "opening_time": "8:00 AM",
+          "closing_time": "4:00 PM",
+          "contact_no": "+9988776655"
+        }
+      ],
+      "plastic": [
+        {
+          "location": "123 Plastic Street, EnviroVille, Plastic Recycling Hub",
+          "name": "EnviroPlast",
+          "opening_time": "8:30 AM",
+          "closing_time": "6:00 PM",
+          "contact_no": "+1122334455"
+        },
+        {
+          "location": "456 Green Avenue, Plastic City, GreenCycle Plastics Center",
+          "name": "GreenCycle Plastics",
+          "opening_time": "9:00 AM",
+          "closing_time": "5:30 PM",
+          "contact_no": "+5544332211"
+        },
+        {
+          "location": "789 Recyclable Lane, Plastic Town, RecyclePlastic Depot",
+          "name": "RecyclePlast Solutions",
+          "opening_time": "10:00 AM",
+          "closing_time": "4:30 PM",
+          "contact_no": "+9988776655"
+        },
+        {
+          "location": "101 Plastic Drive, EcoVillage, EcoPlastic Collection Point",
+          "name": "EcoPlastic Recyclers",
+          "opening_time": "9:30 AM",
+          "closing_time": "5:00 PM",
+          "contact_no": "+1122334455"
+        },
+        {
+          "location": "202 Eco Avenue, PlasticTech District, PlasticTech Recycle",
+          "name": "PlasticTech Solutions",
+          "opening_time": "8:00 AM",
+          "closing_time": "4:00 PM",
+          "contact_no": "+1234567890"
+        }
+      ],
+      "steel": [
+        {
+          "location": "123 Steel Street, Metal Town, Steel Recycling Depot",
+          "name": "MetalMarvel Recycling",
+          "opening_time": "8:00 AM",
+          "closing_time": "4:30 PM",
+          "contact_no": "+9988776655"
+        },
+        {
+          "location": "456 Iron Avenue, Steel City, SteelCycle Collection Point",
+          "name": "SteelCycle Depot",
+          "opening_time": "9:30 AM",
+          "closing_time": "6:00 PM",
+          "contact_no": "+1122334455"
+        },
+        {
+          "location": "789 Recycle Drive, SteelVille, EcoSteel Recyclers",
+          "name": "EcoSteel Solutions",
+          "opening_time": "10:00 AM",
+          "closing_time": "4:00 PM",
+          "contact_no": "+5544332211"
+        },
+        {
+          "location": "101 Green Street, EcoMetal District, GreenMetal Recycling",
+          "name": "GreenMetal Recyclers",
+          "opening_time": "9:00 AM",
+          "closing_time": "5:00 PM",
+          "contact_no": "+1122334455"
+        },
+        {
+          "location": "202 Metal Avenue, SteelTech Zone, SteelTech Recycle",
+          "name": "SteelTech Solutions",
+          "opening_time": "8:30 AM",
+          "closing_time": "6:30 PM",
+          "contact_no": "+9988776655"
+        }
+      ],
+      "iron": [
+        {
+          "location": "123 Iron Street, EcoMetal City, Iron Recycling Hub",
+          "name": "IronReclaim Solutions",
+          "opening_time": "9:00 AM",
+          "closing_time": "5:00 PM",
+          "contact_no": "+1122334455"
+        },
+        {
+          "location": "456 Green Drive, Iron Town, EcoIron Collection Center",
+          "name": "EcoIron Recyclers",
+          "opening_time": "10:00 AM",
+          "closing_time": "6:30 PM",
+          "contact_no": "+5544332211"
+        },
+        {
+          "location": "789 Metal Lane, IronVille, IronTech Recycle",
+          "name": "IronTech Solutions",
+          "opening_time": "8:30 AM",
+          "closing_time": "4:30 PM",
+          "contact_no": "+9988776655"
+        },
+        {
+          "location": "101 Iron Street, GreenIron District, GreenIron Recycling",
+          "name": "GreenIron Recyclers",
+          "opening_time": "9:00 AM",
+          "closing_time": "5:30 PM",
+          "contact_no": "+1122334455"
+        },
+        {
+          "location": "202 Iron Avenue, Sustainable Iron Zone, Sustainable Iron Recyclers",
+          "name": "Sustainable Iron Solutions",
+          "opening_time": "8:00 AM",
+          "closing_time": "4:00 PM",
+          "contact_no": "+1234567890"
+        }
+      ],
+      "wood": [
+        {
+          "location": "123 Timber Street, Wood Town, TimberTech Recycle",
+          "name": "TimberTech Recycle",
+          "opening_time": "8:30 AM",
+          "closing_time": "4:30 PM",
+          "contact_no": "+9988776655"
+        },
+        {
+          "location": "456 Wood Avenue, GreenWood City, GreenWood Solutions",
+          "name": "GreenWood Solutions",
+          "opening_time": "9:00 AM",
+          "closing_time": "5:30 PM",
+          "contact_no": "+1122334455"
+        },
+        {
+          "location": "789 Eco Drive, WoodVille, EcoWood Recyclers",
+          "name": "EcoWood Recyclers",
+          "opening_time": "10:00 AM",
+          "closing_time": "4:00 PM",
+          "contact_no": "+5544332211"
+        },
+        {
+          "location": "101 Wood Lane, Sustainable Wood District, Sustainable Wood Recycle",
+          "name": "Sustainable Wood Recycle",
+          "opening_time": "9:30 AM",
+          "closing_time": "6:00 PM",
+          "contact_no": "+1122334455"
+        },
+        {
+          "location": "202 Green Street, WoodTech Zone, WoodTech Recyclers",
+          "name": "WoodTech Recyclers",
+          "opening_time": "8:00 AM",
+          "closing_time": "4:00 PM",
+          "contact_no": "+1234567890"
+        }
+    ],
+        "glass": [
+        {
+          "location": "123 Glass Avenue, ClearGlass City, ClearCycle Glass",
+          "name": "ClearCycle Glass",
+          "opening_time": "8:00 AM",
+          "closing_time": "4:00 PM",
+          "contact_no": "+1234567890"
+        },
+        {
+          "location": "456 Eco Lane, GlassVille, EcoGlass Recycling",
+          "name": "EcoGlass Recycling",
+          "opening_time": "9:30 AM",
+          "closing_time": "6:00 PM",
+          "contact_no": "+9876543210"
+        },
+        {
+          "location": "789 Glass Drive, Sustainable Glass Zone, SustainableGlass Recyclers",
+          "name": "SustainableGlass Recyclers",
+          "opening_time": "10:00 AM",
+          "closing_time": "4:30 PM",
+          "contact_no": "+5544332211"
+        },
+        {
+          "location": "101 Green Street, GlassTech District, GlassTech Recycle",
+          "name": "GlassTech Recycle",
+          "opening_time": "9:00 AM",
+          "closing_time": "5:00 PM",
+          "contact_no": "+1122334455"
+        },
+        {
+          "location": "202 Glass Avenue, GreenGlass City, GreenGlass Solutions",
+          "name": "GreenGlass Solutions",
+          "opening_time": "8:30 AM",
+          "closing_time": "6:30 PM",
+          "contact_no": "+9988776655"
+        }
+    ]
+}
