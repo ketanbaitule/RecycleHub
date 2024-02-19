@@ -17,7 +17,7 @@ export default function EventRow({events}){
                         {
                             events.map((event, index)=>{
                                 return (
-                                    <EventCard key={index} event_id={event.event_id} date={event.date} event_name={event.event_name} event_location={event.location} />
+                                    <EventCard key={index} event_id={event.event_id} date={event.date} event_name={event.event_name} event_location={event.location} image={event.image} />
                                 )
                             })
                         }
