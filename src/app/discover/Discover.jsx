@@ -20,12 +20,12 @@ export default function Discover(){
         supabase.auth.getUser().then((_user, error)=>{
             setUser(_user.data.user)
         })
-    }, [user])
+    }, [user?.email])
     return(
         <>
             <div className="serif max-w-5xl mx-auto my-8 flex flex-col gap-y-10 ">
                 <div className="">
-                    <Heading>Hi, <span className="text-green-500">{user.email}!</span></Heading>
+                    <Heading>Hi, <span className="text-green-500">{user?.email}!</span></Heading>
                     <Text className="text-gray-600">Let&apos;s contribute to our earth.</Text>
                 </div>
                 <MissionRow missions={missions} />
