@@ -33,21 +33,21 @@ export default function Onboarding(){
 
             <FormControl isRequired>
                 <FormLabel>Designation</FormLabel>
-                <Input type='text' name="name" placeholder="Student of GCOEN" required />
+                <Input type='text' name="designation" placeholder="Student of GCOEN" required />
             </FormControl>
 
             <FormControl>
                 <FormLabel>Upload Profile Picture</FormLabel>
-                <Input type='file' name="profile" />
+                <Input type='file' name="avatar" />
             </FormControl>
 
             <FormControl isRequired>
                 <FormLabel>Account Type</FormLabel>
-                <Select name="account_type" required>
-                    <option key={"citizen"} selected >Citizen</option>
-                    <option key={"collector"}>Collector</option>
-                    <option key={"processors"}>Processors</option>
-                    <option key={"startups"}>Startups</option>
+                <Select defaultValue={"citizen"} name="account_type" required>
+                    <option value={"citizen"}>Citizen</option>
+                    <option value={"collector"}>Collector</option>
+                    <option value={"processors"}>Processors</option>
+                    <option value={"startups"}>Startups</option>
                 </Select>
             </FormControl>
             
