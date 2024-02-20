@@ -1,13 +1,13 @@
 [
     {
-        "name": "Dr. J. B. Randhawa", 
-        "designation": "Proffesor, GCOEN",
+        "name": "Dr. Tony Shark", 
+        "designation": "Environment Activist",
         "content": "RecycleHub is a game-changer! Its efficient processes and user-friendly interface make recycling hazardous waste seamless. The connection between users, collectors, and re-processors is remarkable. A much-needed solution for a cleaner environment!",
         "type": "none"
     }, 
     {
-        "name": "Dr. Latesh Malik", 
-        "designation": "HOD, CSE Department", 
+        "name": "Dr. John Wick", 
+        "designation": "HOD, MTech Department", 
         "content": "RecycleHub revolutionizes waste management. The centralized map and reward system motivate users, while the point system for collectors adds a commendable touch. The market for recycled materials is a brilliant addition. A holistic approach towards a sustainable future.",
         "type": "image",
         "data": {
@@ -16,8 +16,8 @@
         }
     }, 
     {
-        "name": "Dr. S. R. Wagh", 
-        "designation": "Asst. Proffessor, GCOEN", 
+        "name": "Dr. S. Bacchan", 
+        "designation": "PR Manager", 
         "content": "Incredible initiative! RecycleHub tackles global challenges with local solutions. The comprehensive market survey demonstrates a deep understanding of the issues. The proposed solution aligns with environmental goals. A commendable effort for a greener planet.",
         "type": "pdf",
         "data": {

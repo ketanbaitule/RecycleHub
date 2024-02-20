@@ -2,6 +2,7 @@ import { logout } from "@/actions/auth";
 import { createClient } from "@/utils/supabase/server";
 import { cookies } from "next/headers";
 import { redirect } from "next/navigation";
+import HomePage from './HomePage'
 
 export default async function Home() {
   const cookie = cookies()
@@ -17,11 +18,12 @@ export default async function Home() {
 
   return (
     <main className="h-full ">
-      Hello {!!email? email : "Not Login"}
-      { !!email && (        
+      { !!email ? (        
         <form action={logout}>
           <button>Logout</button>
         </form>
+        ) : (
+          <HomePage />
         )
       }
     </main>
