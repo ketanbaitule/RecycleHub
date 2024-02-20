@@ -19,8 +19,9 @@ export default function EventCard({event_id, date, event_name, event_location, i
                 <div className=" relative ">
                     <Image
                     src={image}
-                    alt='Green double couch with wooden legs'
+                    alt='Green double couch with wooden legs '
                     borderRadius='lg'
+                    className=" h-[276px]  "
                     />
                     <div className=" flex flex-col items-center justify-center w-20 py-2 rounded-xl px-3 font-bold absolute top-3 left-3 bg-[#FFF6F2] text-[#F0635A] ">
                         <div className="text-3xl">{day}</div>

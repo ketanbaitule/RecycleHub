@@ -1,6 +1,6 @@
 import CategoryCard from "./CategoryCard"
 const categories = [
-    "electronics", "plastic", "steel", "iron", "wood", "glass"
+    "electronics", "plastic", "metals", "oil", "wood", "glass"
 ]
 
 export default function Categories(){

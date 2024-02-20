@@ -73,7 +73,7 @@
           "contact_no": "+1234567890"
         }
       ],
-      "steel": [
+      "metals": [
         {
           "location": "123 Steel Street, Metal Town, Steel Recycling Depot",
           "name": "MetalMarvel Recycling",
@@ -108,9 +108,7 @@
           "opening_time": "8:30 AM",
           "closing_time": "6:30 PM",
           "contact_no": "+9988776655"
-        }
-      ],
-      "iron": [
+        },
         {
           "location": "123 Iron Street, EcoMetal City, Iron Recycling Hub",
           "name": "IronReclaim Solutions",
@@ -124,24 +122,40 @@
           "opening_time": "10:00 AM",
           "closing_time": "6:30 PM",
           "contact_no": "+5544332211"
+        }
+      ],
+      "oil": [
+        {
+          "location": "Plot No. B-95, MIDC, Butibori, Dist. Nagpur",
+          "name": "M/s. Ranjana Group of Industries",
+          "opening_time": "9:00 AM",
+          "closing_time": "5:00 PM",
+          "contact_no": "+1122334455"
         },
         {
-          "location": "789 Metal Lane, IronVille, IronTech Recycle",
-          "name": "IronTech Solutions",
+          "location": "Plot No. 67, Wanjara Layout, Kamptee Road, Nagpur",
+          "name": "M/s. Rozy Lube Industries (Ambika Lube Industries)",
+          "opening_time": "10:00 AM",
+          "closing_time": "6:30 PM",
+          "contact_no": "+5544332211"
+        },
+        {
+          "location": "Plot No. C-70, MIDC Umred, Tal. Umbred, Dist. Nagpur",
+          "name": "M/s. Global Techniques",
           "opening_time": "8:30 AM",
           "closing_time": "4:30 PM",
           "contact_no": "+9988776655"
         },
         {
-          "location": "101 Iron Street, GreenIron District, GreenIron Recycling",
-          "name": "GreenIron Recyclers",
+          "location": "187/4 Mahurjhiri Village, Katol Road, Distt. Nagpur",
+          "name": "M/s. Nova Lubes Pvt. Ltd.",
           "opening_time": "9:00 AM",
           "closing_time": "5:30 PM",
           "contact_no": "+1122334455"
         },
         {
-          "location": "202 Iron Avenue, Sustainable Iron Zone, Sustainable Iron Recyclers",
-          "name": "Sustainable Iron Solutions",
+          "location": "Plot No. C-8 & C-9, MIDC Butibori, Tal. Hingana, Dist. Nagpur, Maharashtra",
+          "name": "M/s. Radiant Lubes P. Ltd.",
           "opening_time": "8:00 AM",
           "closing_time": "4:00 PM",
           "contact_no": "+1234567890"
